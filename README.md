@@ -15,3 +15,12 @@ https://www.jenkins.io/doc/pipeline/steps/kubernetes-pipeline-steps/</br>
 https://medium.com/vivid-seats-engineering/how-to-kubernetes-pods-as-jenkins-build-agents-a726d3886861</br>
 https://hub.docker.com/r/jenkins/jnlp-slave</br>
 https://habr.com/ru/post/442614/</br>
+
+ansible</br>
+https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04-ru</br>
+
+monitoring</br>
+https://habr.com/ru/company/mailru/blog/499676/#1</br>
+
+create cluster</br>
+https://cloud.croc.ru/blog/byt-v-teme/sozdanie-kubernetes-klastera/</br>
