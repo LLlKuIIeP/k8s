@@ -28,3 +28,7 @@ https://cloud.croc.ru/blog/byt-v-teme/sozdanie-kubernetes-klastera/</br>
 
 http: server gave HTTP response to HTTPS client</br>
 https://github.com/moby/moby/issues/28321</br>
+
+
+добавление пользотеля jekins</br>
+https://stackoverflow.com/questions/48827345/kubernetes-jenkins-integration
