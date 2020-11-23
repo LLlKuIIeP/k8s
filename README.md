@@ -4,6 +4,9 @@ https://kubernetes.io/ru/docs/concepts/overview/working-with-objects/namespaces/
 https://kubernetes.io/ru/docs/reference/kubectl/cheatsheet/</br>
 https://habr.com/ru/company/flant/blog/470503/</br>
 
+install</br>
+https://kubernetes.io/docs/setup/production-environment/container-runtimes/</br>
+
 
 jenkins</br>
 https://medium.com/@chathurams.sa/configure-jenkins-with-kubernetes-e3175e02ca8</br>
