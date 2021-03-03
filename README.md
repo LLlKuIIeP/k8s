@@ -27,6 +27,7 @@ https://habr.com/ru/company/mailru/blog/499676/#1</br>
 
 create cluster</br>
 https://cloud.croc.ru/blog/byt-v-teme/sozdanie-kubernetes-klastera/</br>
+https://habr.com/ru/post/348688/
 
 
 http: server gave HTTP response to HTTPS client</br>
